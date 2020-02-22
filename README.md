@@ -1,2 +1,2 @@
-# recommender-system
-Recommendation system using vanilla autoencoder
+# Recommender System
+Recommendation system using vanilla autoencoders
